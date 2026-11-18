@@ -43,7 +43,7 @@ class _LoginPageState extends State<LoginPage> {
                 ),
                 const SizedBox(height: 8),
                 const Text(
-                  'Hi, silakan masuk untuk melanjutkan',
+                  'Hai, silakan masuk untuk melanjutkan',
                   style: TextStyle(fontSize: 14, color: Colors.grey),
                 ),
                 const SizedBox(height: 30),
